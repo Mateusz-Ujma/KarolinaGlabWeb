@@ -20,7 +20,8 @@ export const MainText = styled.div`
 `;
 export const ImageWrapper = styled.div`
   display: flex;
-  margin-top: 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   flex-direction: column;
   width: 80vw;
   background-color: #feebd7;

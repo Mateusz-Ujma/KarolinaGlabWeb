@@ -41,7 +41,7 @@ export const Image = styled.img`
   height: auto;
   border-radius: 3% 3% 0% 0%;
   @media (min-width: 762px) {
-    width: 100%;
+    width: 50%;
     border-radius: 0% 0% 0% 0%;
   }
 `;

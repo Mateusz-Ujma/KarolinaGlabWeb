@@ -11,64 +11,32 @@ const Portfolio = () => {
         <Image src={zdj.zdj1} />
         <SecondWrapper>
           <ImageText>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever
-            since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only
-            five centuries,
+            Cześć! 👋☺️ Miło mi widzieć Cię na moim profilu, jeżeli interesuje Cię poznanie mojej pasji zostań ze mną na dłużej! Już niebawem pojawi
+            się tu coś więcej ... 🤭
           </ImageText>
           <ImageSocialWrapper>
             <ImageIcon src={insta} />
-            <ImageSocialLink href="https://www.google.com/" target="_blank">
-              Brajan Florek -- Fotograf
-            </ImageSocialLink>
-          </ImageSocialWrapper>
-          <ImageSocialWrapper>
-            <ImageIcon src={insta} />
-            <ImageSocialLink href="https://www.google.com/" target="_blank">
-              Natalia Konarska -- Modelka
+            <ImageSocialLink href="https://www.instagram.com/tresc_migawki/" target="_blank">
+              Treść Migawki -- Fotograf
             </ImageSocialLink>
           </ImageSocialWrapper>
         </SecondWrapper>
       </ImageWrapper>
+
       <ImageWrapper isLeft={false}>
-        <Image src={zdj.zdj2} />
-        <SecondWrapper>
-          <ImageText>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever
-            since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only
-            five centuries,
-          </ImageText>
-          <ImageSocialWrapper>
-            <ImageIcon src={insta} />
-            <ImageSocialLink href="https://www.google.com/" target="_blank">
-              Brajan Florek -- Fotograf
-            </ImageSocialLink>
-          </ImageSocialWrapper>
-          <ImageSocialWrapper>
-            <ImageIcon src={insta} />
-            <ImageSocialLink href="https://www.google.com/" target="_blank">
-              Natalia Konarska -- Modelka
-            </ImageSocialLink>
-          </ImageSocialWrapper>
-        </SecondWrapper>
-      </ImageWrapper>
-      <ImageWrapper isLeft={true}>
         <Image src={zdj.zdj3} />
         <SecondWrapper>
-          <ImageText>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever
-            since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only
-            five centuries,
-          </ImageText>
+          <ImageText>Makijaż podkreślający urodę pięknej Jolanty 😍🔥📸</ImageText>
           <ImageSocialWrapper>
             <ImageIcon src={insta} />
-            <ImageSocialLink href="https://www.google.com/" target="_blank">
-              Brajan Florek -- Fotograf
+            <ImageSocialLink href="https://www.instagram.com/uchwycic_emocje/" target="_blank">
+              uchwycic_emocje -- Fotograf
             </ImageSocialLink>
           </ImageSocialWrapper>
           <ImageSocialWrapper>
             <ImageIcon src={insta} />
-            <ImageSocialLink href="https://www.google.com/" target="_blank">
-              Natalia Konarska -- Modelka
+            <ImageSocialLink href="https://www.instagram.com/jolantaaw_beautymanager/" target="_blank">
+              Jolanta -- Modelka
             </ImageSocialLink>
           </ImageSocialWrapper>
         </SecondWrapper>
@@ -76,20 +44,16 @@ const Portfolio = () => {
       <ImageWrapper isLeft={false}>
         <Image src={zdj.zdj4} />
         <SecondWrapper>
-          <ImageText>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever
-            since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only
-            five centuries,
-          </ImageText>
+          <ImageText>Przepiękna modelka i super fotograf brzmi jak sesja idealna ? 🤭 Taką sesję stworzyliśmy z Natalią i Brajanem 😍☝️</ImageText>
           <ImageSocialWrapper>
             <ImageIcon src={insta} />
-            <ImageSocialLink href="https://www.google.com/" target="_blank">
-              Brajan Florek -- Fotograf
+            <ImageSocialLink href="https://www.instagram.com/tresc_migawki/" target="_blank">
+              Treść Migawki -- Fotograf
             </ImageSocialLink>
           </ImageSocialWrapper>
           <ImageSocialWrapper>
             <ImageIcon src={insta} />
-            <ImageSocialLink href="https://www.google.com/" target="_blank">
+            <ImageSocialLink href="https://www.instagram.com/n_konarska/" target="_blank">
               Natalia Konarska -- Modelka
             </ImageSocialLink>
           </ImageSocialWrapper>

@@ -54,6 +54,7 @@ export const ImageText = styled.div`
     text-align: center;
     font-size: 20px;
     font-weight: 300;
+    width: 100%;
   }
 `;
 export const SecondWrapper = styled.div`
@@ -61,6 +62,9 @@ export const SecondWrapper = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  @media (min-width: 762px) {
+    width: 50%;
+  }
 `;
 export const ImageSocialWrapper = styled.div`
   width: 100%;

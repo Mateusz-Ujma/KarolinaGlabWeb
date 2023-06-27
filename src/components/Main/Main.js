@@ -12,7 +12,7 @@ const Main = () => {
       <SecondWrapper>
         <FirstText>MAKIJAŻ{windowWidth > 762 ? ' NA KAŻDĄ OKAZJĘ' : null}</FirstText>
         {windowWidth > 762 ? null : <SecondText>NA KAŻDĄ OKAZJĘ</SecondText>}
-        <ThirdText>PRZEKUWANIE USZU</ThirdText>
+        <ThirdText>PRZEKŁUWANIE USZU</ThirdText>
         {windowWidth > 762 ? <QRText>Sprawdź na telefonie!</QRText> : null}
         {windowWidth > 762 ? <QRCode src={qr} /> : null}
       </SecondWrapper>
